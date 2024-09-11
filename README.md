@@ -1,5 +1,5 @@
-**To-Do List Web Application
-**
+**To-Do List Web Application**
+
 The To-Do List web application provides a simple and intuitive interface for managing your daily tasks. Here's a brief overview of its features and usage:
 
 **Add Tasks:** Enter your task in the input field at the top and click the "Add Task" button to add it to your list. You can also press the "Enter" key to add a task quickly.
